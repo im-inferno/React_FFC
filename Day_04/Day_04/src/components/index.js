@@ -1,3 +1,3 @@
 import InputCard from "./InputCard";
 
-export{InputCard};
+export { InputCard };
